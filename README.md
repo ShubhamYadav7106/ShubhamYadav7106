@@ -12,7 +12,6 @@
 - 💬 Ask me about **HTML, CSS, Bootstrap, FLEXBOX**
 
 - 📫 How to reach me **shubhamyadav98372@gmail.com**
-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShubhamYadav7106 " alt="ShubhamYadav7106 " /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
