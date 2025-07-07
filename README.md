@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **React Js,Javascript**
 
-- 👨‍💻 All of my projects are available at [https://shubhmportfolio.netlify.app/](https://shobhitportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://shubhmportfolio.netlify.app/](https://shubhmportfolio.netlify.app/))
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, FLEXBOX**
 
