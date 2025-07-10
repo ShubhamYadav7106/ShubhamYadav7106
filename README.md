@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shubhmportfolio.netlify.app/](https://shubhmportfolio.netlify.app/))
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, FLEXBOX**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Flexbox, React Js, Javascript, Responsive Web design **
 
 - 📫 How to reach me **shubhamyadav98372@gmail.com**
 
