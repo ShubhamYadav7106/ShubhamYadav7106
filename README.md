@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **React Js,Javascript**
 
-- 👨‍💻 All of my projects are available at [https://shubhmportfolio.netlify.app/](https://shubhmportfolio.netlify.app/))
+- 👨‍💻 All of my projects are available at [https://shubhamdevportfolio.netlify.app/](https://shubhamdevportfolio.netlify.app/)) 
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, SCSS, Tailwind CSS, Material UI, Firebase, Redux,  Flexbox, React Js, Javascript, Responsive Web design **
 
