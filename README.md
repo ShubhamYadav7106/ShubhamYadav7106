@@ -258,9 +258,9 @@ AI-powered chatbot built with React and Gemini API.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShubhamYadav7106&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+<img width="35%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShubhamYadav7106&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShubhamYadav7106&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="35%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShubhamYadav7106&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
