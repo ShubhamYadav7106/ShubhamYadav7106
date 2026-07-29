@@ -1,377 +1,229 @@
-<!-- ===================================================== -->
-<!--               SHUBHAM YADAV GITHUB PROFILE             -->
-<!-- ===================================================== -->
+<svg width="1600" height="500" viewBox="0 0 1600 500" fill="none" xmlns="http://www.w3.org/2000/svg">
 
-<div align="center">
+<defs>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm **Shubham Yadav**
+<linearGradient id="bg" x1="0" y1="0" x2="1600" y2="500">
 
-### Frontend Developer • React • TypeScript • MERN Stack
+<stop stop-color="#0F172A"/>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=30&duration=3500&pause=900&color=3BA4F2&center=true&vCenter=true&width=900&lines=Frontend+Developer;React+%7C+TypeScript+Developer;Building+Modern+Web+Experiences;Currently+Learning+Backend+Development;AI+Assisted+Developer" />
-</p>
+<stop offset="1" stop-color="#111827"/>
 
-<br>
+</linearGradient>
 
-<a href="https://shubhamdevportfolio.netlify.app">
-<img src="https://img.shields.io/badge/🌐_Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
 
-<a href="mailto:shubhamyadav98372@gmail.com">
-<img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<stop stop-color="#38BDF8"/>
 
-<a href="https://linkedin.com/in/shubham-yadav-55452028b">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+<stop offset="1" stop-color="#6366F1"/>
 
-<br><br>
+</linearGradient>
 
-<img src="https://komarev.com/ghpvc/?username=ShubhamYadav7106&style=for-the-badge&color=0ea5e9"/>
+<filter id="blur">
 
-<img src="https://img.shields.io/github/followers/ShubhamYadav7106?style=for-the-badge&logo=github"/>
+<feGaussianBlur stdDeviation="90"/>
 
-<img src="https://img.shields.io/github/stars/ShubhamYadav7106?style=for-the-badge&logo=github"/>
+</filter>
 
-</div>
+</defs>
 
----
+<rect width="1600" height="500" fill="url(#bg)"/>
 
-# 💫 About Me
+<circle cx="1350" cy="120" r="160" fill="#3B82F6" opacity=".15" filter="url(#blur)"/>
 
-```ts
-const shubham = {
+<circle cx="280" cy="420" r="180" fill="#6366F1" opacity=".15" filter="url(#blur)"/>
 
-    role: "Frontend Developer",
+<circle cx="900" cy="250" r="220" fill="#0EA5E9" opacity=".08" filter="url(#blur)"/>
 
-    location: "India",
+<text
 
-    code: [
-        "JavaScript",
-        "TypeScript",
-        "HTML",
-        "CSS"
-    ],
+x="100"
 
-    frontend: [
-        "React",
-        "Tailwind CSS",
-        "Redux Toolkit",
-        "Material UI"
-    ],
+y="170"
 
-    backend: [
-        "Node.js",
-        "Express.js",
-        "MongoDB",
-        "Firebase"
-    ],
+font-size="62"
 
-    currentFocus: [
-        "Full Stack Development",
-        "Scalable Web Applications",
-        "AI Assisted Development"
-    ],
+font-family="Segoe UI"
 
-    funFact:
-        "I enjoy turning complex ideas into simple and beautiful user experiences."
-}
-```
+font-weight="700"
 
----
+fill="white">
 
-# ⚡ Developer Console
+Shubham Yadav
 
-```text
-> boot profile...
+</text>
 
-█████████████████████████████ 100%
+<text
 
-Loading React.....................✔
+x="100"
 
-Loading TypeScript...............✔
+y="235"
 
-Loading MERN Stack...............✔
+font-size="28"
 
-Loading AI Workflow..............✔
+font-family="Segoe UI"
 
-Status...........................ONLINE
+fill="#38BDF8">
 
-Ready to Build 🚀
-```
+Frontend Developer
 
----
+</text>
 
-# 🚀 What I'm Doing
+<text
 
-🔹 Building scalable React applications
+x="100"
 
-🔹 Learning Backend Development
+y="280"
 
-🔹 Exploring AI-powered development workflow
+font-size="20"
 
-🔹 Improving System Design fundamentals
+font-family="Segoe UI"
 
-🔹 Creating beautiful and responsive user interfaces
+fill="#94A3B8">
 
----
+Building Modern, Scalable & Beautiful Web Experiences
 
-# 💼 Experience
+</text>
 
-### 🚀 Frontend Developer Intern
+<rect
 
-**Indux Technology**
+x="100"
 
-> Worked on a production-level CRM platform using modern web technologies.
+y="330"
 
-### Key Contributions
+width="150"
 
-- Built responsive React interfaces
-- Developed CRM modules
-- Implemented Invoice & Quotation features
-- Worked with TypeScript
-- API Integration
-- Role Based Authentication
-- PDF Generation
-- AI Assisted Development
-- Performance Optimization
+height="45"
 
----
+rx="22"
 
-# 🎯 2026 Goals
+fill="url(#blue)"/>
 
-- ✅ Become an Excellent React Developer
-- 🔄 Master MERN Stack
-- 🔄 Learn Docker
-- 🔄 Learn AWS
-- 🔄 Contribute to Open Source
-- 🔄 Crack a Product-Based Company
+<text
 
----
-# 🛠 Tech Stack
+x="145"
 
-<div align="center">
+y="358"
 
-### 🎨 Frontend
+font-size="18"
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,vite,materialui,bootstrap,sass" />
-</p>
+fill="white"
 
-### ⚙️ Backend
+font-family="Segoe UI"
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-</p>
+font-weight="600">
 
-### 🧰 Tools & Platforms
+React
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm,vercel,netlify" />
-</p>
+</text>
 
-</div>
+<rect
 
----
+x="270"
 
-# 🤖 AI Development Workflow
+y="330"
 
-I use AI as a productivity tool—not as a replacement for engineering.
+width="180"
 
-<div align="center">
+height="45"
 
-| AI Tool | Usage |
-|---------|------|
-| 🤖 ChatGPT | Debugging, Architecture, Learning |
-| ⚡ GitHub Copilot | Code Completion |
-| 💎 Gemini | Research & Problem Solving |
-| 🧠 Claude | Documentation & Refactoring |
+rx="22"
 
-</div>
+fill="#1E293B"/>
 
----
+<text
 
-# 🚀 Featured Projects
+x="305"
 
-<table>
-<tr>
+y="358"
 
-<td width="50%">
+font-size="18"
 
-## 💼 Indux CRM
+fill="#38BDF8"
 
-Enterprise CRM Platform
+font-family="Segoe UI"
 
-**Highlights**
+font-weight="600">
 
-- React + TypeScript
-- Node.js + Express
-- MongoDB
-- Invoice Module
-- Quotation Module
-- Inventory Management
-- Dashboard
-- Authentication
-- PDF Generation
+TypeScript
 
-</td>
+</text>
 
-<td width="50%">
+<rect
 
-## 🤖 AI Chatbot
+x="470"
 
-Modern AI Assistant
+y="330"
 
-**Highlights**
+width="120"
 
-- React
-- Gemini API
-- Responsive UI
-- Markdown Support
-- Fast Responses
-- Modern Design
+height="45"
 
-</td>
+rx="22"
 
-</tr>
+fill="#1E293B"/>
 
-<tr>
+<text
 
-<td>
+x="510"
 
-## 🛒 React Firebase Ecommerce
+y="358"
 
-**Highlights**
+font-size="18"
 
-- Authentication
-- Firestore
-- Shopping Cart
-- Responsive Design
-- Product Filtering
+fill="#38BDF8"
 
-</td>
+font-family="Segoe UI"
 
-<td>
+font-weight="600">
 
-## 🍕 MERN Pizza Shop
+MERN
 
-**Highlights**
+</text>
 
-- MERN Stack
-- Authentication
-- Cart System
-- Admin Dashboard
-- Order Management
+<rect
 
-</td>
+x="610"
 
-</tr>
+y="330"
 
-</table>
+width="90"
 
----
+height="45"
 
-# 💼 Experience Timeline
+rx="22"
 
-```text
-2024
- │
- ├── React Projects
- │
- ├── The Entrepreneurship Network
- │      Frontend Developer Intern
- │
- ├── Indux Technology
- │      Frontend Developer Intern
- │
- ├── Production CRM Development
- │
- └── MERN Stack Journey 🚀
-```
+fill="#1E293B"/>
 
----
+<text
 
-# 📜 Certifications
+x="638"
 
-🏆 Frontend Developer Internship — Indux Technology
+y="358"
 
-🏆 React JS Internship — The Entrepreneurship Network
+font-size="18"
 
-🏆 PostgreSQL Training — Spoken Tutorial (IIT Bombay)
+fill="#38BDF8"
 
-🏆 Fundamentals of Artificial Intelligence
+font-family="Segoe UI"
 
----
+font-weight="600">
 
-# 🎯 Core Strengths
+AI
 
-✅ Clean Code
+</text>
 
-✅ Responsive Design
+<g transform="translate(1100 80)">
 
-✅ Component-Based Architecture
+<circle cx="130" cy="130" r="115" stroke="#38BDF8" stroke-width="2" opacity=".4"/>
 
-✅ API Integration
+<circle cx="130" cy="130" r="80" stroke="#38BDF8" stroke-width="2" opacity=".3"/>
 
-✅ State Management
+<circle cx="130" cy="130" r="45" fill="#38BDF8"/>
 
-✅ Problem Solving
+<path d="M130 20 L130 240" stroke="#38BDF8" opacity=".3"/>
 
-✅ Team Collaboration
+<path d="M20 130 L240 130" stroke="#38BDF8" opacity=".3"/>
 
-✅ Performance Optimization
+</g>
 
----
-
-# ⚡ Development Principles
-
-```text
-✔ Clean UI
-
-✔ Reusable Components
-
-✔ Mobile First
-
-✔ Performance Focused
-
-✔ Accessibility
-
-✔ Scalability
-
-✔ Continuous Learning
-```
-
----
-
-# ☕ Beyond Coding
-
-- 📚 Learning new technologies
-- 🎨 Exploring UI inspiration
-- 🤝 Contributing to team projects
-- 🧩 Solving development challenges
-- 🚀 Building side projects
-
----
-
-# 📈 Current Focus
-
-```text
-React             ██████████ 100%
-
-TypeScript        █████████░ 90%
-
-JavaScript        ██████████ 100%
-
-Tailwind CSS      ██████████ 100%
-
-Node.js           ███████░░░ 70%
-
-Express.js        ███████░░░ 70%
-
-MongoDB           ███████░░░ 70%
-
-Firebase          █████████░ 90%
-```
-
---- 
+</svg>
