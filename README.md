@@ -16,7 +16,55 @@
 <a href="mailto:shubhamyadav98372@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+---
 
+# 💫 About Me
+
+```typescript
+const shubham = {
+  name: "Shubham Yadav",
+
+  role: "Frontend Developer",
+
+  location: "India",
+
+  currentlyWorkingOn: [
+    "React",
+    "TypeScript",
+    "Modern Web Applications"
+  ],
+
+  currentlyLearning: [
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "System Design"
+  ],
+
+  askMeAbout: [
+    "React",
+    "JavaScript",
+    "TypeScript",
+    "Tailwind CSS",
+    "Firebase"
+  ],
+
+  funFact:
+    "I enjoy turning ideas into clean, responsive and user-friendly web applications."
+};
+```
+
+---
+
+# 🚀 Current Focus
+
+- 🔭 Building modern web applications with **React & TypeScript**
+- 🌱 Learning **Backend Development (Node.js, Express & MongoDB)**
+- 🤖 Exploring **AI-assisted development workflows**
+- 🎯 Improving problem-solving and software engineering skills
+- 💡 Passionate about clean UI, performance and scalable architecture
+
+---
 <a href="https://shubhamdevportfolio.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
