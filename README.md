@@ -132,11 +132,10 @@ I use AI to improve development speed, code quality, debugging, documentation, a
 - ✅ Focus on performance and accessibility
 - ✅ Continuous learning and improvement
 
+---
 - # 💼 Experience
 
 ## 🚀 Frontend Developer Intern | Indux Technology
-
-📅 **Duration:** 3 Months
 
 Worked on a production-level CRM application using modern web technologies.
 
