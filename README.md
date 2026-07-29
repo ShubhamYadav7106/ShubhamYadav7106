@@ -254,5 +254,75 @@ AI-powered chatbot built with React and Gemini API.
 
 ---
 
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ShubhamYadav7106&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamYadav7106&layout=compact&theme=transparent&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=ShubhamYadav7106&theme=transparent&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamYadav7106&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ShubhamYadav7106&theme=algolia&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:shubhamyadav98372@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/shubham-yadav-55452028b">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://shubhamdevportfolio.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Developer Philosophy
+
+> *"Great software is built with clean code, continuous learning, and attention to user experience."*
+
+<br>
+
+⭐ **Thanks for visiting my profile!**  
+If you like my work, consider giving a ⭐ to my repositories.
+
+</div>
 
 
