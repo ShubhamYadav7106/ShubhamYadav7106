@@ -258,21 +258,21 @@ AI-powered chatbot built with React and Gemini API.
 
 <div align="center">
 
-<img width="35%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShubhamYadav7106&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShubhamYadav7106&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
 
-<img width="35%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShubhamYadav7106&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img width="98%" src="https://streak-stats.demolab.com?user=ShubhamYadav7106&theme=github-dark-blue&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShubhamYadav7106&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamYadav7106&theme=github-dark&hide_border=true"/>
+<img width="60%" src="https://streak-stats.demolab.com?user=ShubhamYadav7106&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamYadav7106&theme=github-dark&hide_border=true"/>
 
 </div>
 
