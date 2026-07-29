@@ -31,6 +31,257 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShubhamYadav7106&repo=NewsApp-ReactNative)](https://github.com/ShubhamYadav7106/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShubhamYadav7106&repo=Mern-Stack-Nsspl)](https://github.com/ShubhamYadav7106/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShubhamYadav7106&repo=pizza-shop-mern-stack)](https://github.com/ShubhamYadav7106/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShubhamYadav7106&repo=Reactjs-firebase-Ecommerce-web-app)](https://github.com/ShubhamYadav7106/github-readme-stats)    
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShubhamYadav7106&repo=Reactjs-firebase-Ecommerce-web-app)](https://github.com/ShubhamYadav7106/github-readme-stats) 
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShubhamYadav7106&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamYadav7106&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=ShubhamYadav7106&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamYadav7106&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ShubhamYadav7106&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# ⚡ Coding Activity
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShubhamYadav7106&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 💻 Languages Usage
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShubhamYadav7106&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShubhamYadav7106&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📅 GitHub Productivity
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShubhamYadav7106&theme=tokyonight&utcOffset=5.5"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShubhamYadav7106&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🚀 Currently Working On
+
+- 💼 Full Stack CRM Application (MERN)
+- ⚛️ Advanced React & TypeScript
+- 🌐 REST APIs & Backend Development
+- 🤖 AI Assisted Development Workflow
+- 📱 Building Modern Responsive Web Applications
+
+---
+
+# 🎯 2026 Goals
+
+✅ Become a Skilled MERN Stack Developer
+
+✅ Contribute to Open Source
+
+✅ Build SaaS Projects
+
+✅ Master Backend Development
+
+✅ Learn Docker & AWS
+
+✅ Crack a Product-Based Company
+
+---
+
+# 📌 Featured Repositories
+
+| Project | Description |
+|----------|-------------|
+| 🚀 Indux CRM | Enterprise CRM Application |
+| 🤖 AI Chatbot | Gemini Powered AI Assistant |
+| 🛒 React Firebase Ecommerce | Complete Ecommerce Website |
+| 🍕 MERN Pizza Shop | Food Ordering System |
+
+---
+
+# 🛠 Development Workflow
+
+```text
+Idea 💡
+
+     ↓
+
+Research 🔍
+
+     ↓
+
+UI Design 🎨
+
+     ↓
+
+Frontend ⚛️
+
+     ↓
+
+Backend ⚙️
+
+     ↓
+
+Testing 🧪
+
+     ↓
+
+Deployment 🚀
+```
+
+---
+
+# 💡 Favorite Tech
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,ts,nodejs,mongodb,tailwind,firebase,git,github,vscode"/>
+
+</p>
+
+---
+
+# 🎵 While Coding I Enjoy
+
+🎧 Lo-fi
+
+🎧 Synthwave
+
+🎧 Instrumentals
+
+🎧 Focus Music
+
+---
+
+# ☕ Fun Fact
+
+```javascript
+const shubham = {
+    code: ["JavaScript", "TypeScript"],
+    frontend: ["React", "Redux", "Tailwind CSS"],
+    backend: ["Node.js", "Express"],
+    database: ["MongoDB", "Firebase"],
+    currentlyLearning: "Full Stack Development",
+    hobbies: ["Coding", "Learning", "Coffee ☕"]
+};
+
+console.log("Keep Building 🚀");
+```
+
+---
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ShubhamYadav7106/ShubhamYadav7106/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
+
+---
+
+# 💬 Random Dev Quote
+
+<p align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</p>
+
+---
+
+# 🎯 Developer Mindset
+
+> "Great software isn't built by writing more code, it's built by writing better code."
+
+---
+
+# 💼 Open to Opportunities
+
+✨ I'm currently open to:
+
+- Frontend Developer Roles
+- React.js Developer Roles
+- MERN Stack Developer Roles
+- Full Stack Developer Internship
+- Open Source Collaboration
+- Freelance Opportunities
+
+---
+
+# 📫 Reach Me
+
+<p align="center">
+
+<a href="mailto:shubhamyadav98372@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/shubham-yadav-55452028b">
+<img src="https://img.shields.io/badge/LinkedIn-Shubham_Yadav-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://shubhamdevportfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit_Now-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+---
+
+# ❤️ Thanks for visiting my profile!
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=140&section=footer"/>
+
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamYadav7106&" alt="ShubhamYadav7106" /></p>
