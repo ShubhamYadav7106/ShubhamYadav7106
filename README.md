@@ -132,5 +132,128 @@ I use AI to improve development speed, code quality, debugging, documentation, a
 - ✅ Focus on performance and accessibility
 - ✅ Continuous learning and improvement
 
+- # 💼 Experience
+
+## 🚀 Frontend Developer Intern | Indux Technology
+
+📅 **Duration:** 3 Months
+
+Worked on a production-level CRM application using modern web technologies.
+
+### Key Contributions
+
+- ⚛️ Developed responsive and reusable React components
+- 📊 Built CRM modules like Customer, Invoice, Quotation & Dashboard
+- 🔗 Integrated REST APIs and optimized frontend performance
+- 🔐 Worked with Authentication & Role-Based Access
+- 📄 Implemented PDF generation and improved UI/UX
+- 🤖 Leveraged AI tools for debugging, code optimization and faster development
+
+---
+
+## 💻 React Developer Intern | The Entrepreneurship Network (TEN)
+
+📅 **Internship**
+
+### Responsibilities
+
+- Developed responsive React applications
+- Built reusable UI components
+- Worked on API integration
+- Collaborated with the development team
+- Improved application performance and user experience
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 💼 Indux CRM
+
+Enterprise CRM platform built using React, TypeScript, Node.js, Express and MongoDB.
+
+**Highlights**
+
+- Customer Management
+- Inventory Module
+- Invoice & Quotation
+- Dashboard Analytics
+- Role-Based Authentication
+- PDF Generation
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI Chatbot
+
+AI-powered chatbot built with React and Gemini API.
+
+**Highlights**
+
+- Modern UI
+- AI Integration
+- Fast Responses
+- Responsive Design
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 🛒 React Firebase Ecommerce
+
+- Firebase Authentication
+- Firestore Database
+- Shopping Cart
+- Product Search
+- Responsive UI
+
+</td>
+
+<td>
+
+### 🍕 MERN Pizza Shop
+
+- MERN Stack
+- Authentication
+- Admin Dashboard
+- Order Management
+- Responsive Design
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🏆 Certifications
+
+- 🥇 Frontend Developer Internship — Indux Technology
+- 🥇 React JS Internship — The Entrepreneurship Network
+- 🥇 PostgreSQL Training — Spoken Tutorial (IIT Bombay)
+- 🥇 Fundamentals of Artificial Intelligence
+
+---
+
+# 🌟 Highlights
+
+- 🚀 Built production-level CRM modules
+- ⚛️ Strong understanding of React ecosystem
+- 🎨 Passionate about clean UI & responsive design
+- 🤖 AI-assisted development workflow
+- 📈 Always learning modern web technologies
+
+---
+
 
 
