@@ -62,6 +62,13 @@ const shubham = {
     "I enjoy turning ideas into clean, responsive and user-friendly web applications."
 };
 ```
+# 🚀 Current Focus
+
+- 🔭 Building modern web applications with **React & TypeScript**
+- 🌱 Learning **Backend Development (Node.js, Express & MongoDB)**
+- 🤖 Exploring **AI-assisted development workflows**
+- 🎯 Improving problem-solving and software engineering skills
+- 💡 Passionate about clean UI, performance and scalable architecture
 # 🛠 Tech Stack
 
 <div align="center">
@@ -125,15 +132,5 @@ I use AI to improve development speed, code quality, debugging, documentation, a
 - ✅ Focus on performance and accessibility
 - ✅ Continuous learning and improvement
 
----
-
-
-# 🚀 Current Focus
-
-- 🔭 Building modern web applications with **React & TypeScript**
-- 🌱 Learning **Backend Development (Node.js, Express & MongoDB)**
-- 🤖 Exploring **AI-assisted development workflows**
-- 🎯 Improving problem-solving and software engineering skills
-- 💡 Passionate about clean UI, performance and scalable architecture
 
 
