@@ -17,6 +17,17 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 ---
+<a href="https://shubhamdevportfolio.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ShubhamYadav7106&style=for-the-badge&color=3B82F6"/>
+
+</p>
+---
 
 # 💫 About Me
 
@@ -64,14 +75,4 @@ const shubham = {
 - 🎯 Improving problem-solving and software engineering skills
 - 💡 Passionate about clean UI, performance and scalable architecture
 
----
-<a href="https://shubhamdevportfolio.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
 
-</p>
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ShubhamYadav7106&style=for-the-badge&color=3B82F6"/>
-
-</p>
