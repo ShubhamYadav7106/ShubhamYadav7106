@@ -62,6 +62,70 @@ const shubham = {
     "I enjoy turning ideas into clean, responsive and user-friendly web applications."
 };
 ```
+# 🛠 Tech Stack
+
+<div align="center">
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,redux,vite,bootstrap,materialui" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+### 🧰 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm,vercel,netlify" />
+</p>
+
+</div>
+
+---
+
+# ⚡ Core Skills
+
+| Skill | Level |
+|:------|:------:|
+| ⚛️ React.js | ██████████ 95% |
+| 📘 TypeScript | █████████░ 90% |
+| 💛 JavaScript | ██████████ 95% |
+| 🎨 Tailwind CSS | ██████████ 95% |
+| 🔥 Firebase | █████████░ 90% |
+| 🟢 Node.js | ███████░░░ 70% |
+| 🚀 Express.js | ███████░░░ 70% |
+| 🍃 MongoDB | ███████░░░ 70% |
+| 🛠 Git & GitHub | ██████████ 95% |
+
+---
+
+# 🤖 AI Development Workflow
+
+I use AI to improve development speed, code quality, debugging, documentation, and learning—not to replace engineering skills.
+
+### AI Tools I Use
+
+- 🤖 ChatGPT
+- ⚡ GitHub Copilot
+- 💎 Gemini
+- 🧠 Claude
+
+---
+
+# 💡 Development Principles
+
+- ✅ Write clean and maintainable code
+- ✅ Build reusable React components
+- ✅ Mobile-first responsive design
+- ✅ Focus on performance and accessibility
+- ✅ Continuous learning and improvement
+
+---
 
 
 # 🚀 Current Focus
