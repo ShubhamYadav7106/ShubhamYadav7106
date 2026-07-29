@@ -278,13 +278,9 @@ AI-powered chatbot built with React and Gemini API.
 
 ---
 
-# 🏆 GitHub Achievements
+# 📈 Profile Summary
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ShubhamYadav7106&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4"/>
-
-</div>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShubhamYadav7106&theme=github_dark)
 
 ---
 
