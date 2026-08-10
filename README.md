@@ -16,7 +16,7 @@
 <a href="mailto:shubhamyadav98372@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://shubhamdevportfolio.netlify.app">
+<a href="https://shubhamyadav7.me/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
