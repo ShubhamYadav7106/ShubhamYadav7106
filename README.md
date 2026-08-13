@@ -254,14 +254,9 @@ AI-powered chatbot built with React and Gemini API.
 
 ---
 
-
-
-
----
-
 # 📈 Profile Summary
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShubhamYadav7106&theme=github_dark)
+![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShubhamYadav7106&theme=github_dark)
 
 ---
 
@@ -277,7 +272,7 @@ AI-powered chatbot built with React and Gemini API.
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://shubhamdevportfolio.netlify.app">
+<a href="https://shubhamyadav7.me">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
