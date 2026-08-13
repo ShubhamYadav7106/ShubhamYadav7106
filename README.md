@@ -27,7 +27,7 @@
 <img src="https://komarev.com/ghpvc/?username=ShubhamYadav7106&style=for-the-badge&color=3B82F6"/>
 
 </p>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 # 💫 About Me
 
 ```typescript
@@ -255,10 +255,8 @@ AI-powered chatbot built with React and Gemini API.
 
 ---
 
-# 📊 GitHub Analytics
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShubhamYadav7106&show_icons=true&theme=radical&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamYadav7106&langs_count=8)](https://github.com/ShubhamYadav7106/github-readme-stats)
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+
 
 ---
 
