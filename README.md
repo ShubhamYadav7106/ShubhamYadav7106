@@ -256,26 +256,9 @@ AI-powered chatbot built with React and Gemini API.
 ---
 
 # 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShubhamYadav7106&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShubhamYadav7106&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img width="60%" src="https://streak-stats.demolab.com?user=ShubhamYadav7106&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamYadav7106&theme=github-dark&hide_border=true"/>
-
-</div>
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShubhamYadav7106&show_icons=true&theme=radical&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamYadav7106&langs_count=8)](https://github.com/ShubhamYadav7106/github-readme-stats)
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ---
 
