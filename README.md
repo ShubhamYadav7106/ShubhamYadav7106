@@ -1,5 +1,3 @@
-<div><img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-</div>
   <div align="center">
 # Hi 👋 I'm Shubham Yadav
 ### Frontend Developer
@@ -297,6 +295,8 @@ AI-powered chatbot built with React and Gemini API.
 
 ⭐ **Thanks for visiting my profile!**  
 If you like my work, consider giving a ⭐ to my repositories.
+<div><img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+</div>
 
 </div>
 
