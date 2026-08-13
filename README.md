@@ -27,11 +27,12 @@
 <img src="https://komarev.com/ghpvc/?username=ShubhamYadav7106&style=for-the-badge&color=3B82F6"/>
 
 </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
 # 💫 About Me
 
 ```typescript
 const shubham = {
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
   name: "Shubham Yadav",
 
   role: "Frontend Developer",
