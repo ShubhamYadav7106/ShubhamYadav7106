@@ -62,7 +62,7 @@ I use AI tools to assist with:
 
 ### UI & Styling
 
-`Tailwind CSS` `Framer Motion`
+`Tailwind CSS` `Material UI` `Bootstrap` `Framer Motion`
 
 ### Backend
 
@@ -82,11 +82,11 @@ I use AI tools to assist with:
 
 ### DevOps & Tools
 
-`Git` `GitHub` `Docker` `Vercel` `Netlify`
+`Git` `GitHub` `Vercel` `Netlify`
 
 ### AI
 
-`Generative AI` `GitHub Copilot` `Cursor AI` `Gemini API`
+`Generative AI` `GitHub Copilot` `Cursor AI` `Gemini AI`
 
 ---
 
