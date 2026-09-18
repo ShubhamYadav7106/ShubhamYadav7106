@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | React.js • TypeScript • Node.js | Generative AI
 
-I'm a **Full Stack Developer with 1+ year of professional experience** building modern, responsive and user-friendly web applications.
+I'm a **Full Stack Developer with 1 year of professional experience** building modern, responsive and user-friendly web applications.
 
 My primary expertise is in **React.js, TypeScript, JavaScript, Node.js, REST APIs and modern frontend development**.
 
