@@ -154,6 +154,28 @@ A role-based CRM application designed to manage business operations, customers a
 **Tech:** React.js • TypeScript • Redux Toolkit • Axios • Node.js • Express.js • MongoDB • JWT • Socket.IO
 
 ---
+## 🎟️ EventVerse — Full-Stack Event Booking Platform
+
+A full-stack **MERN event booking platform** where users can discover events, request tickets and track their bookings, while admins can manage events and verify booking requests.
+
+### Features
+
+* 🔐 Secure authentication using **JWT & bcrypt**
+* 📧 Mandatory **Email OTP verification**
+* 🔒 **2FA OTP verification** for event ticket booking
+* 👥 Role-based access for **Admin & User**
+* 🎫 Free and paid event management
+* 📅 Event creation with categories, dates, descriptions and seating capacity
+* 📋 Admin booking verification with **Pending / Confirmed / Rejected** status
+* 💺 Secure seat availability and **overbooking prevention**
+* 💰 Admin analytics for bookings, revenue and confirmed paid clients
+* 📧 Automated booking confirmation emails using **Nodemailer**
+* 📊 User dashboard for booking status and cancellation
+* 🎨 Responsive UI built with **React & Tailwind CSS**
+* ✨ Smooth micro-interactions and modern UI/UX
+
+**Tech:** React.js • JavaScript • Node.js • Express.js • MongoDB • MongoDB Atlas • JWT • bcrypt • Nodemailer • Tailwind CSS • REST APIs
+---
 
 ## 🛒 React + Firebase E-Commerce Platform
 
