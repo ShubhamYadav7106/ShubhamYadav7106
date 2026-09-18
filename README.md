@@ -4,7 +4,7 @@
 
 I'm a **Full Stack Developer with 1+ year of professional experience** building modern, responsive and user-friendly web applications.
 
-My primary expertise is in **React.js, Next.js, TypeScript, JavaScript, Node.js, REST APIs and modern frontend development**.
+My primary expertise is in **React.js, TypeScript, JavaScript, Node.js, REST APIs and modern frontend development**.
 
 I also actively use **Generative AI and AI-assisted development tools** to improve software development workflows, debugging, refactoring, technical research and productivity.
 
@@ -13,7 +13,7 @@ I also actively use **Generative AI and AI-assisted development tools** to impro
 ## 👨‍💻 About Me
 
 * 💻  1 year of professional software development experience
-* ⚛️ Strong focus on **React.js & Next.js**
+* ⚛️ Strong focus on **React.js**
 * 🟦 Experienced with **TypeScript & JavaScript**
 * 🟢 Full Stack experience with **Node.js, Express.js & MongoDB**
 * 🔄 Experience with **Redux Toolkit, Axios & React Router**
