@@ -1,298 +1,269 @@
-  <div align="center">
-# Hi 👋 I'm Shubham Yadav
-### Frontend Developer
+# 👋 Hi, I'm Shubham Yadav
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=React.js+Developer;TypeScript+Developer;Frontend+Engineer;MERN+Stack+Developer;Building+Modern+Web+Applications" />
+### Full Stack Developer | React.js • TypeScript • Node.js | Generative AI
 
-</div>
-<p align="center">
+I'm a **Full Stack Developer with 1+ year of professional experience** building modern, responsive and user-friendly web applications.
 
-<a href="https://linkedin.com/in/shubham-yadav-55452028b">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
-</a>
+My primary expertise is in **React.js, Next.js, TypeScript, JavaScript, Node.js, REST APIs and modern frontend development**.
 
-<a href="mailto:shubhamyadav98372@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://shubhamyadav7.me/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel" />
-</a>>
-
-</p>
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ShubhamYadav7106&style=for-the-badge&color=3B82F6"/>
-
-</p>
-
-# 💫 About Me
-
-```typescript
-const shubham = {
-
-  name: "Shubham Yadav",
-
-  role: "Frontend Developer",
-
-  location: "India",
-
-  currentlyWorkingOn: [
-    "React",
-    "TypeScript",
-    "Modern Web Applications"
-  ],
-
-  currentlyLearning: [
-    "Node.js",
-    "Express.js",
-    "MongoDB",
-    "System Design"
-  ],
-
-  askMeAbout: [
-    "React",
-    "JavaScript",
-    "TypeScript",
-    "Tailwind CSS",
-    "Firebase"
-  ],
-
-  funFact:
-    "I enjoy turning ideas into clean, responsive and user-friendly web applications."
-};
-```
-# 🚀 Current Focus
-
-- 🔭 Building modern web applications with **React & TypeScript**
-- 🌱 Learning **Backend Development (Node.js, Express & MongoDB)**
-- 🤖 Exploring **AI-assisted development workflows**
-- 🎯 Improving problem-solving and software engineering skills
-- 💡 Passionate about clean UI, performance and scalable architecture
-# 🛠 Tech Stack
-
-<div align="center">
-
-### 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,redux,vite,bootstrap,materialui" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-</p>
-
-### 🧰 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm,vercel,netlify" />
-</p>
-
-</div>
+I also actively use **Generative AI and AI-assisted development tools** to improve software development workflows, debugging, refactoring, technical research and productivity.
 
 ---
 
-# ⚡ Core Skills
+## 👨‍💻 About Me
 
-| Skill | Level |
-|:------|:------:|
-| ⚛️ React.js | ██████████ 95% |
-| 📘 TypeScript | █████████░ 90% |
-| 💛 JavaScript | ██████████ 95% |
-| 🎨 Tailwind CSS | ██████████ 95% |
-| 🔥 Firebase | █████████░ 90% |
-| 🟢 Node.js | ███████░░░ 70% |
-| 🚀 Express.js | ███████░░░ 70% |
-| 🍃 MongoDB | ███████░░░ 70% |
-| 🛠 Git & GitHub | ██████████ 95% |
-
----
-
-# 🤖 AI Development Workflow
-
-I use AI to improve development speed, code quality, debugging, documentation, and learning—not to replace engineering skills.
-
-### AI Tools I Use
-
-- 🤖 ChatGPT
-- ⚡ GitHub Copilot
-- 💎 Gemini
-- 🧠 Claude
+* 💻  1 year of professional software development experience
+* ⚛️ Strong focus on **React.js & Next.js**
+* 🟦 Experienced with **TypeScript & JavaScript**
+* 🟢 Full Stack experience with **Node.js, Express.js & MongoDB**
+* 🔄 Experience with **Redux Toolkit, Axios & React Router**
+* 🔌 Experience working with **REST APIs**
+* 🔐 Familiar with **JWT & Role-Based Access Control**
+* 🎨 Building responsive interfaces with **Tailwind CSS**
+* ✨ Creating interactive UI using **Framer Motion**
+* 🤖 Actively using **Generative AI & AI-assisted development tools**
+* ☁️ Experience with **Vercel & Netlify deployments**
+* 🧪 Experience with debugging, testing and frontend optimization
 
 ---
 
-# 💡 Development Principles
+## 🤖 Generative AI & AI-Assisted Development
 
-- ✅ Write clean and maintainable code
-- ✅ Build reusable React components
-- ✅ Mobile-first responsive design
-- ✅ Focus on performance and accessibility
-- ✅ Continuous learning and improvement
+Generative AI is an important part of my modern software development workflow.
+
+I use AI tools to assist with:
+
+* 🔍 Debugging complex issues
+* 🧠 Technical research & problem solving
+* ♻️ Code refactoring
+* 🧩 Feature implementation
+* 📝 Code reviews
+* ⚡ Improving development productivity
+* 🧪 Test case generation & analysis
+* 🏗️ Exploring architecture and implementation approaches
+
+### AI Tools
+
+**GitHub Copilot** • **Cursor AI** • **Gemini API** • **Generative AI**
+
+> I use AI as a development accelerator while maintaining ownership of architecture, implementation, testing and code quality.
 
 ---
-- # 💼 Experience
 
-## 🚀 Frontend Developer Intern | Indux Technology
+## 🛠️ Tech Stack
 
-Worked on a production-level CRM application using modern web technologies.
+### Frontend
+
+`React.js` `JavaScript` `TypeScript` `HTML5` `CSS3`
+
+### State Management
+
+`Redux Toolkit` `Context API`
+
+### UI & Styling
+
+`Tailwind CSS` `Framer Motion`
+
+### Backend
+
+`Node.js` `Express.js` `REST APIs`
+
+### Database & Services
+
+`MongoDB` `MongoDB Atlas` `Firebase`
+
+### Authentication & Security
+
+`JWT` `Role-Based Access Control`
+
+### API & Routing
+
+`Axios` `React Router`
+
+### DevOps & Tools
+
+`Git` `GitHub` `Docker` `Vercel` `Netlify`
+
+### AI
+
+`Generative AI` `GitHub Copilot` `Cursor AI` `Gemini API`
+
+---
+
+# 💼 Professional Experience
+
+## Frontend Developer — Indux Technology
+
+**Jan 2026 – Apr 2026**
+
+Worked on **InduxCRM**, a role-based CRM application built using React, TypeScript and MERN technologies.
 
 ### Key Contributions
 
-- ⚛️ Developed responsive and reusable React components
-- 📊 Built CRM modules like Customer, Invoice, Quotation & Dashboard
-- 🔗 Integrated REST APIs and optimized frontend performance
-- 🔐 Worked with Authentication & Role-Based Access
-- 📄 Implemented PDF generation and improved UI/UX
-- 🤖 Leveraged AI tools for debugging, code optimization and faster development
+* Worked across **Admin, SuperAdmin, Customer and Employee modules**.
+* Developed responsive CRM interfaces using **React.js and TypeScript**.
+* Implemented enquiry and inventory management workflows.
+* Developed quotation and invoice workflows with **GST, discount and package calculations**.
+* Implemented **invoice and quotation PDF generation**.
+* Worked with **Redux Toolkit** for state management.
+* Integrated REST APIs using **Axios**.
+* Implemented invoice-to-sales conversion workflows.
+* Worked on **SuperAdmin settings and tenant email configuration**.
+* Implemented forgot-password **OTP workflows**.
+* Debugged and optimized application functionality.
+* Used AI-assisted development tools for debugging, testing and optimization.
 
 ---
 
-## 💻 React Developer Intern | The Entrepreneurship Network (TEN)
+## Frontend Developer Intern — The Entrepreneurship Network
 
-📅 **Internship**
+**Jul 2025 – Oct 2025**
 
-### Responsibilities
+Worked as a Frontend Developer and gained hands-on experience building web applications using modern frontend technologies.
 
-- Developed responsive React applications
-- Built reusable UI components
-- Worked on API integration
-- Collaborated with the development team
-- Improved application performance and user experience
+* Developed responsive and reusable UI components.
+* Worked with **React.js** and modern frontend practices.
+* Implemented application features based on project requirements.
+* Debugged and improved frontend functionality.
+* Collaborated on real-world development tasks.
 
 ---
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
+## 🏢 InduxCRM — MERN + TypeScript CRM
 
-<td width="50%">
+A role-based CRM application designed to manage business operations, customers and sales workflows.
 
-### 💼 Indux CRM
+### Features
 
-Enterprise CRM platform built using React, TypeScript, Node.js, Express and MongoDB.
+* Admin, SuperAdmin, Customer & Employee roles
+* Enquiry and inventory management
+* Quotation and invoice management
+* GST, discount and package calculations
+* Invoice & quotation PDF generation
+* KPI dashboards
+* Invoice-to-sales conversion
+* Tenant-based email configuration
+* Forgot-password OTP workflow
+* Role-based access control
+* Responsive CRM interface
+* API integration
+* Real-time notifications
 
-**Highlights**
-
-- Customer Management
-- Inventory Module
-- Invoice & Quotation
-- Dashboard Analytics
-- Role-Based Authentication
-- PDF Generation
-
-</td>
-
-<td width="50%">
-
-### 🤖 AI Chatbot
-
-AI-powered chatbot built with React and Gemini API.
-
-**Highlights**
-
-- Modern UI
-- AI Integration
-- Fast Responses
-- Responsive Design
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-### 🛒 React Firebase Ecommerce
-
-- Firebase Authentication
-- Firestore Database
-- Shopping Cart
-- Product Search
-- Responsive UI
-
-</td>
-
-<td>
-
-### 🍕 MERN Pizza Shop
-
-- MERN Stack
-- Authentication
-- Admin Dashboard
-- Order Management
-- Responsive Design
-
-</td>
-
-</tr>
-
-</table>
+**Tech:** React.js • TypeScript • Redux Toolkit • Axios • Node.js • Express.js • MongoDB • JWT • Socket.IO
 
 ---
 
-# 🏆 Certifications
+## 🛒 React + Firebase E-Commerce Platform
 
-- 🥇 Frontend Developer Internship — Indux Technology
-- 🥇 React JS Internship — The Entrepreneurship Network
-- 🥇 PostgreSQL Training — Spoken Tutorial (IIT Bombay)
-- 🥇 Fundamentals of Artificial Intelligence
+A responsive e-commerce application built using React and Firebase.
 
----
+### Features
 
-# 🌟 Highlights
+* Product browsing
+* Shopping cart
+* Firebase authentication
+* Redux state management
+* Context API
+* Responsive UI
+* Tailwind CSS
+* Framer Motion animations
 
-- 🚀 Built production-level CRM modules
-- ⚛️ Strong understanding of React ecosystem
-- 🎨 Passionate about clean UI & responsive design
-- 🤖 AI-assisted development workflow
-- 📈 Always learning modern web technologies
-
----
-
-# 📈 Profile Summary
-
-![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShubhamYadav7106&theme=github_dark)
+**Tech:** React.js • JavaScript • Redux • Context API • Firebase • Tailwind CSS • Framer Motion
 
 ---
 
-# 🤝 Let's Connect
+## 🧠 Neuro — AI Study Tool
 
-<div align="center">
+An AI-powered study application designed to support students with AI-assisted learning.
 
-<a href="mailto:shubhamyadav98372@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+### Technologies
 
-<a href="https://linkedin.com/in/shubham-yadav-55452028b">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://shubhamyadav7.me">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-</div>
+**Vue.js • JavaScript • Tailwind CSS • FastAPI • Python • MariaDB • Docker • Llama AI**
 
 ---
 
-<div align="center">
+## 🤖 Gemini API Chatbot
 
-### 💭 Developer Philosophy
+An AI chatbot application built by integrating the **Gemini API** for conversational AI functionality.
 
-> *"Great software is built with clean code, continuous learning, and attention to user experience."*
+**Tech:** React.js • JavaScript • Gemini API • REST APIs
 
-<br>
+---
 
-⭐ **Thanks for visiting my profile!**  
-If you like my work, consider giving a ⭐ to my repositories.
-<div><img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-</div>
+# ⚡ Engineering Principles
 
-</div>
+```text
+Clean & Reusable Code
+        ↓
+Responsive UI
+        ↓
+API Integration
+        ↓
+Scalable Architecture
+        ↓
+Testing & Debugging
+        ↓
+Production Deployment
+```
 
+I focus on writing code that is:
 
+* Maintainable
+* Reusable
+* Responsive
+* Scalable
+* Testable
+* Performance-oriented
+
+---
+
+# 📊 What I Enjoy Building
+
+```text
+Frontend Applications
+        +
+Backend APIs
+        +
+Modern Web Technologies
+        +
+Generative AI
+        +
+Problem Solving
+        =
+Real-World Applications 🚀
+```
+
+---
+
+# 🏆 Achievement
+
+🏅 **Best Frontend Developer — Hackathon**
+
+---
+
+# 🎓 Certifications
+
+* Frontend Developer — Indux Technology
+* React JS — The Entrepreneurship Network
+* PostgreSQL — Spoken Tutorial, IIT Bombay
+* Artificial Intelligence — NPTEL, IIT Madras
+* React Development
+* Generative AI
+
+---
+
+# 📫 Connect With Me
+
+💼 **LinkedIn:** [Shubham Yadav](https://www.linkedin.com/in/shubham-yadav-55452028b)
+
+🌐 **Portfolio:** [shubhamyadav.portfolio](https://shubhamyadav7.me)
+
+💻 **GitHub:** [ShubhamYadav7106](https://github.com/ShubhamYadav7106)
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+If you find my projects useful, feel free to ⭐ the repositories.
