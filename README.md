@@ -176,11 +176,12 @@ A responsive e-commerce application built using React and Firebase.
 
 ## 🧠 Neuro — AI Study Tool
 
-An AI-powered study application designed to support students with AI-assisted learning.
+Contributed to the frontend of an AI-powered business operations platform, building Hero, Services, Case Studies,
+Integrations, FAQ, and Contact sections.
 
 ### Technologies
 
-**Vue.js • JavaScript • Tailwind CSS • FastAPI • Python • MariaDB • Docker • Llama AI**
+**React.js • Tailwind CSS • JavaScript • Framer Motion**
 
 ---
 
@@ -249,8 +250,6 @@ Real-World Applications 🚀
 * React JS — The Entrepreneurship Network
 * PostgreSQL — Spoken Tutorial, IIT Bombay
 * Artificial Intelligence — NPTEL, IIT Madras
-* React Development
-* Generative AI
 
 ---
 
